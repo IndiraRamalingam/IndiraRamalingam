@@ -1,7 +1,10 @@
-![image](https://user-images.githubusercontent.com/27279740/164895446-7bcdb5b4-06dd-4763-aa96-80e0fbdf4667.png)
+
 - 👋 Hi, I’m IndiraRamalingam
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning MERN - Full Stack Development
+  
+   ![image](https://user-images.githubusercontent.com/27279740/164895446-7bcdb5b4-06dd-4763-aa96-80e0fbdf4667.png)
+
 - 📫 How to reach me indiraramalingam93@gmail.com
 
 - <h3 align="left">Languages and Tools:</h3>
