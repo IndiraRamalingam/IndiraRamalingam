@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning MERN - Full Stack Development
   
-   ![image](https://user-images.githubusercontent.com/27279740/164895446-7bcdb5b4-06dd-4763-aa96-80e0fbdf4667.png)
+   ![image](https://miro.medium.com/v2/resize:fit:1358/1*k0SazfSJ-tPSBbt2WDYIyw.png)
 
 - 📫 How to reach me indiraramalingam93@gmail.com
 
