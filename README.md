@@ -2,7 +2,7 @@
 - 👋 Hi, I’m IndiraRamalingam
 - 🌱 I’m a certified Full Stack Developer - MERN.
   
-   ![image](https://uploads.laborx.com/gig/thumb_cropped_1024x512_Gd5zZmxzSMF83FD7tRwAVboY0X_FB5id.jpeg)
+   ![image](https://user-images.githubusercontent.com/27279740/164895446-7bcdb5b4-06dd-4763-aa96-80e0fbdf4667.png)
 
 - 📫 How to reach me indiraramalingam93@gmail.com
 
