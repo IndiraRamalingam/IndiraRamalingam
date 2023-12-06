@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m IndiraRamalingam
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning MERN - Full Stack Development
+- 🌱 I’m a certified Full Stack Developer - MERN.
   
    ![image](https://uploads.laborx.com/gig/thumb_cropped_1024x512_Gd5zZmxzSMF83FD7tRwAVboY0X_FB5id.jpeg)
 
